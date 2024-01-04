@@ -1,21 +1,7 @@
 #!/usr/bin/python3
+"""Define a class named Rectangle to represent a rectangle."""
 
-"""
-Module: geometry
-
-This module defines classes for basic geometric shapes.
-
-Classes:
-    Rectangle: Represents a rectangle.
-
-"""
 
 class Rectangle:
-    """
-    A class to represent a rectangle.
-
-    Attributes:
-        (None at the moment)
-    """
-
+    """A basic class representing a rectangle."""
     pass
